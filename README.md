@@ -34,7 +34,3 @@ Welcome to my profile! This page tracks my technical progression in data analyti
 
 ## 🥇 Tier 3: Advanced Applications
 *Focus: SQL window functions (`PARTITION BY`), machine learning model deployments, and system performance optimizations.*
-
----
-## 🥇 Tier 3: Advanced Applications
-*Focus: SQL window functions (`PARTITION BY`), machine learning model deployments, and system performance optimizations.*
