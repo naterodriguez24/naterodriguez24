@@ -19,9 +19,6 @@ Welcome to my profile! This page tracks my technical progression in data analyti
     *   **Core Concepts:** Multi-column `GROUP BY`, `COUNT(*)`, aggregate `AVG()`, mathematical cleanup (`ROUND`), and sequential database sorting (`ORDER BY`).
     *   **The Problem:** Aggregating university health survey diagnostics to map student lengths of stay directly against depression (PHQ-9), belonging (SCS), and acculturative stress (ASISS) scores.
 
-#### 📊 Excel Spreadsheets & Dashboards
-*   🔲 **Executive Performance Spreadsheet** *(Coming Soon)* - Structuring business tables utilizing `XLOOKUP`, nested `IF` logic, and interactive Pivot Tables/Charts for stakeholder reporting.
-    
 #### 🐍 Python Data Scripting
 *   🔲 **Exploratory Data Analysis (EDA) Script** *(Coming Soon)* - Leveraging `pandas` and `numpy` to ingest, clean, and pre-process messy unstructured business records.
 
