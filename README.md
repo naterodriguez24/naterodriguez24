@@ -1,5 +1,5 @@
 # Hi, I'm Nate! 👋
-### Data Analyst | SQL, Python & Data Visualization Specialist
+### Data Analyst | SQL, Python, Excel & Data Visualization Specialist
 
 Welcome to my profile! This page tracks my technical progression in data analytics, demonstrating a strong foundation in database architecture, programmatic scripting, and visual data storytelling.
 
